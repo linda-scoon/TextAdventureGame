@@ -31,8 +31,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<img src="map.jpg" alt="map" width="300"/>
-<img src="legend.jpg" alt="legend" width="200"/>
+<img src="map.JPG" alt="map" width="300"/>
+<img src="legend.JPG" alt="legend" width="200"/>
 
 This console text game was developed as an assignment for a first year module. The text game begins with a back story then prompts the player to choose what they want to do.
 To play the game, a player has to answer the questions when prompted.
