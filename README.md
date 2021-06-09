@@ -31,6 +31,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+This is the map of the world in which the game takes place.
+
 <img src="map.jpg" alt="map" width="300"/>
 <img src="legend.jpg" alt="legend" width="200"/>
 
@@ -38,7 +40,8 @@ This console text game was developed as an assignment for a first year module. T
 To play the game, a player has to answer the questions when prompted.
 
 The text game has ten functions and one class.
-Imports: 
+
+###Imports: 
 
 The imports included are:
 - import sys
